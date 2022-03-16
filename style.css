@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    position: fixed;
+}
+.nav-item{
+    margin-left: 20px;
+}
+.nav-item:hover{
+    color: rgb(197, 156, 79);
+}
+.button{
+    margin-left: 3px;
+    padding: 10px 20px;
+    border: 1px solid white;
+    color: white;
+}
+.btn1{
+    border: 7px solid rgb(219, 180, 106);
+    padding: 10px 20px;
+    font-size: 15pt;
+    font-weight: 500;
+    border-radius: 5px;
+    background-color: rgb(248, 208, 133);
+    margin-left: 30px;
+}
+.Card1{
+    background-image: url(bgfornite.jpg);
+    width: 100%;
+    height: 850px;
+    background-size: cover;
+}
+.bgusti{
+    width: 100%;
+    height: 850px;
+    background-color: rgba(49, 38, 38, 0.8);
+}
+.Rows1{
+    background-color: rgba(24, 22, 22, 0.6);
+    height: 500px;
+    width: 100%;
+}
+.Send{
+    width: 100%;
+    height: 500px;
+}
+.btn2{
+    padding: 10px 20px;
+    color: white;
+    border: none;
+}
+.Footer{
+    width: 100%;
+    height: 400px;
+    padding: 70px 80px 50px 80px;
+    background-color: rgb(54, 50, 50);
+}
+li{
+    list-style: none;
+    margin-top: 10px;
+    color: blanchedalmond;
+}
